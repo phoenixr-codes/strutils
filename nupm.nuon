@@ -1,0 +1,6 @@
+{
+    name: "strutils"
+    description: "String utilities"
+    type: "module"
+    license: "Unlicense"
+}
