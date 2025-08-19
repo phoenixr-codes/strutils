@@ -6,3 +6,7 @@
 git clone https://github.com/phoenixr-codes/strutils.git
 nupm install strutils --path
 ```
+
+```nu
+overlay use strutils
+```
